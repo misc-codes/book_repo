@@ -24,7 +24,7 @@ function GetFileExt {  # param in: file_name
 
 function AppendReadme {  # md5, file_name, filesize
     # | sequence | md5 | file_name  | Size |
-    echo "| $((`git branch | wc -l` - 1)) | $2 | $(GetSizeInNiceString $3) | $1 | " >> README.md
+    echo "| $((`git branch | wc -l` - 1)) | $(basename "$2") | $(GetSizeInNiceString $3) | $1 | " >> README.md
     git add README.md
 }
 
@@ -48,7 +48,7 @@ function add_one_file {
     then
         git checkout $branch_name
         AppendReadme $file_md5 "$file_name" $file_size
-        git commit -m"Append file info $file_name: $file_md5"
+        git commit -m"Append file info $(basename "$file_name"): $file_md5"
         git checkout  master # master
         return 0
     fi
@@ -75,10 +75,10 @@ function add_one_file {
 
     # Append info to README.md and commit
     AppendReadme $file_md5 "$file_name" $file_size
-    git commit -m"add book $file_name: $file_md5"
+    git commit -m"add book $(basename "$file_name"): $file_md5"
     git checkout  master # master
     AppendReadme $file_md5 "$file_name" $file_size
-    git commit -m"add Info of book $file_name: $file_md5"
+    git commit -m"add Info of book $(basename "$file_name"): $file_md5"
 
     return 0
 }
