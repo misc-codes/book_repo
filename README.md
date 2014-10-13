@@ -9,3 +9,4 @@ Book list
 | Seq | File Name | Size | MD5 |
 | --- | --------- | ---- | --- |
 | 716 | ../booklist/a1e3b35284e8d3495cea3c75a093ea42.pdf | 6.1 MB | a1e3b35284e8d3495cea3c75a093ea42 | 
+| 1100 | Advanced-Qt-Programming-Creating-Great-Software-with-Cpp-and-Qt-4.pdf | 6.1 MB | a1e3b35284e8d3495cea3c75a093ea42 | 
