@@ -10,3 +10,4 @@ Book list
 | --- | --------- | ---- | --- |
 | 459 | ../booklist/6987d0e3f2647535787784894a9ab717.pdf | 4.5 MB | 6987d0e3f2647535787784894a9ab717 | 
 | 1100 | Hacking Vim - Kim Schulz.pdf | 4.5 MB | 6987d0e3f2647535787784894a9ab717 | 
+| 1103 | Hacking_Vim.pdf | 4.5 MB | 6987d0e3f2647535787784894a9ab717 | 
