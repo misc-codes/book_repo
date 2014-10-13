@@ -380,3 +380,4 @@ Book list
 | 370 | ../booklist/51fc5966c91a68cedee72634e9eb1941.pdf | 10.2 MB | 51fc5966c91a68cedee72634e9eb1941 | 
 | 371 | ../booklist/522000deccd90611990118ec5b9b5873.pdf | 7.6 MB | 522000deccd90611990118ec5b9b5873 | 
 | 372 | ../booklist/5235b1d10ceb6bd90986296b89732eb6.pdf | 8 KB | 5235b1d10ceb6bd90986296b89732eb6 | 
+| 373 | ../booklist/5241e4e050aff0dd8d73c410c422ec6e.pdf | 9.7 MB | 5241e4e050aff0dd8d73c410c422ec6e | 
