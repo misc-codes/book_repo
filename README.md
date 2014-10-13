@@ -1111,3 +1111,4 @@ Book list
 | 1102 | Effective C++中文版第三版 高清PDF.pdf | 17.4 MB | 1dc12f3fd681fb45d5dceac14810d535 | 
 | 1103 | Eff_STL_CN.pdf | 1.0 MB | 5ed672efff273624b4a653d6731deca4 | 
 | 1104 | Makefile手册中文版.pdf | 980 KB | 758017836b72b02820c548730641acc3 | 
+| 1105 | 【迷你书】C++程序设计原理与实践.pdf | 14.0 MB | 1fc4972823cbf93b66b6cc626904c3c7 | 
