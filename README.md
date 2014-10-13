@@ -9,3 +9,4 @@ Book list
 | Seq | File Name | Size | MD5 |
 | --- | --------- | ---- | --- |
 | 304 | ../booklist/40fcfd2be51da3b7e7e140b83f20fbde.pdf | 4.9 MB | 40fcfd2be51da3b7e7e140b83f20fbde | 
+| 1104 | Qt从入门到精通.pdf | 4.9 MB | 40fcfd2be51da3b7e7e140b83f20fbde | 
