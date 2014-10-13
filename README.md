@@ -959,3 +959,4 @@ Book list
 | 949 | ../booklist/e25e48e792c9d261b8a37c4d9e5df77e.pdf | 344 KB | e25e48e792c9d261b8a37c4d9e5df77e | 
 | 950 | ../booklist/e2d01e43a0c09fd1eec430ee93fc3a99.pdf | 8 KB | e2d01e43a0c09fd1eec430ee93fc3a99 | 
 | 951 | ../booklist/e2dbab1b8f17fa86069437b6fe803616.pdf | 4 KB | e2dbab1b8f17fa86069437b6fe803616 | 
+| 952 | ../booklist/e2dc9d615e0f1a3b79345f2d35da03f0.pdf | 16 KB | e2dc9d615e0f1a3b79345f2d35da03f0 | 
