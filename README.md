@@ -9,3 +9,4 @@ Book list
 | Seq | File Name | Size | MD5 |
 | --- | --------- | ---- | --- |
 | 751 | ../booklist/aba3fe568ae8ba438347fd713dd80bab.pdf | 25.7 MB | aba3fe568ae8ba438347fd713dd80bab | 
+| 1100 | 计算机程序的构造和解释中文版.pdf | 25.7 MB | aba3fe568ae8ba438347fd713dd80bab | 
