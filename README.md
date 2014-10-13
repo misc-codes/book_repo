@@ -770,3 +770,4 @@ Book list
 | 760 | ../booklist/aed6f79f5f698630e6193a4b0247a45d.pdf | 72 KB | aed6f79f5f698630e6193a4b0247a45d | 
 | 761 | ../booklist/aee25dee28b303c4755721eb7fe1d0a9.pdf | 8 KB | aee25dee28b303c4755721eb7fe1d0a9 | 
 | 762 | ../booklist/aefa7b31c52c85d1e2a12743222634c8.pdf | 124 KB | aefa7b31c52c85d1e2a12743222634c8 | 
+| 763 | ../booklist/af52e8dd2937150c00a446bd5cec3020.pdf | 6.7 MB | af52e8dd2937150c00a446bd5cec3020 | 
