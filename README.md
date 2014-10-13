@@ -796,3 +796,4 @@ Book list
 | 786 | ../booklist/b6534f22f59fe80abe6a3114e4e306d5.pdf | 1.5 MB | b6534f22f59fe80abe6a3114e4e306d5 | 
 | 787 | ../booklist/b6af35606a0b8f53d11b8a24d07f56fd.pdf | 42.9 MB | b6af35606a0b8f53d11b8a24d07f56fd | 
 | 788 | ../booklist/b6c27ac445380140b4f8d117e0bbb017.pdf | 4.6 MB | b6c27ac445380140b4f8d117e0bbb017 | 
+| 789 | ../booklist/b723f822852a5d3cc6d61bf15b464e8b.pdf | 8 KB | b723f822852a5d3cc6d61bf15b464e8b | 
