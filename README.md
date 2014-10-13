@@ -947,3 +947,4 @@ Book list
 | 937 | ../booklist/deed65a5746085deab02513e1afb7db3.pdf | 4.1 MB | deed65a5746085deab02513e1afb7db3 | 
 | 938 | ../booklist/df01ee50b0315a09974dccfd575fbdcc.pdf | 19.2 MB | df01ee50b0315a09974dccfd575fbdcc | 
 | 939 | ../booklist/df189acff66086c20efd7438dd30fb06.pdf | 7.6 MB | df189acff66086c20efd7438dd30fb06 | 
+| 940 | ../booklist/df27339f31c5d2d08d30deb80ea34725.pdf | 12 KB | df27339f31c5d2d08d30deb80ea34725 | 
