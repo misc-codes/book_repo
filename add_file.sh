@@ -39,17 +39,21 @@ function add_one_file {
     file_name=$1
     file_md5=`md5sum -b "$file_name" | awk '{print $1}'`
     repo_file_name=$file_md5\.`GetFileExt "$file_name"`
+    file_size=`du "$file_name" | awk '{print $1}'`
 
-    # check branch
     branch_name=b_$file_md5
+
+    # Append BookInfo in Readme only if file exists
     if [ 1 -eq `git branch | grep $branch_name | wc -l` ]
     then
-        echo WARNING: "$1" exists
-        echo  in Branch: $branch_name
-        return 0  # exit if return 1
-    else
-        git checkout -b $branch_name start_point
+        git checkout $branch_name
+        AppendReadme $file_md5 "$file_name" $file_size
+        git commit -m"Append file info $file_name: $file_md5"
+        git checkout  master # master
+        return 0
     fi
+
+    git checkout -b $branch_name start_point
 
     # file to add
     if [ ! -e $repo_file_name ]
@@ -58,7 +62,6 @@ function add_one_file {
     fi
 
     # split and add
-    file_size=`du "$file_name" | awk '{print $1}'`
     if [ $file_size -gt $CFG_MAX_SIZE_PER_FILE ]
     then
         # split if bigger than MAX_SIZE_PER_FILE limit
