@@ -1099,3 +1099,4 @@ Book list
 | 1089 | ../booklist/fd98adb50be1a5743c7b6b721fa9ca19.pdf | 8 KB | fd98adb50be1a5743c7b6b721fa9ca19 | 
 | 1090 | ../booklist/fdf068bb26e7eeb5b19b4e062b207e7d.pdf | 14.1 MB | fdf068bb26e7eeb5b19b4e062b207e7d | 
 | 1091 | ../booklist/fe0a643bf306b7b7fe7b140554029fe3.pdf | 8 KB | fe0a643bf306b7b7fe7b140554029fe3 | 
+| 1092 | ../booklist/fead607a6715195b27e76f3405f1cb66.pdf | 1.0 MB | fead607a6715195b27e76f3405f1cb66 | 
