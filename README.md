@@ -88,3 +88,4 @@ Book list
 | 78 | ../booklist/0fa89d9b06532efa3ed44ff1f55597f2.pdf | 24 KB | 0fa89d9b06532efa3ed44ff1f55597f2 | 
 | 79 | ../booklist/0fbfe37c5985d62fcf2484b2eae7e7d7.pdf | 2.1 MB | 0fbfe37c5985d62fcf2484b2eae7e7d7 | 
 | 80 | ../booklist/0fc8ffb355ddc47136f118b4ea5f983b.pdf | 704 KB | 0fc8ffb355ddc47136f118b4ea5f983b | 
+| 81 | ../booklist/1073cd8596b499df2c29b044e10ae029.pdf | 60 KB | 1073cd8596b499df2c29b044e10ae029 | 
