@@ -9,3 +9,4 @@ Book list
 | Seq | File Name | Size | MD5 |
 | --- | --------- | ---- | --- |
 | 76 | ../booklist/0f7e97c8ec03cce493973d704c462eb2.pdf | 17.1 MB | 0f7e97c8ec03cce493973d704c462eb2 | 
+| 1100 | 大话设计模式.pdf | 17.1 MB | 0f7e97c8ec03cce493973d704c462eb2 | 
