@@ -9,3 +9,4 @@ Book list
 | Seq | File Name | Size | MD5 |
 | --- | --------- | ---- | --- |
 | 432 | ../booklist/641e1291f8a451380153cefee31a977d.pdf | 1.8 MB | 641e1291f8a451380153cefee31a977d | 
+| 1100 | Pragmatic.Guide.to.Subversion.MikeMason.文字.pdf | 1.8 MB | 641e1291f8a451380153cefee31a977d | 
