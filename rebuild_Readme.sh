@@ -30,6 +30,18 @@ function GetFileName_Readme {
     echo $filename
 }
 
+function RetrieveLastLine {
+    content=`tail -n +11 README.md`
+    if [ `echo "$content" | wc -l` -gt 2 ]
+    then
+        head -10 README.md >> README.md.temp
+        tail -1 README.md >> README.md.temp
+        mv README.md.temp README.md
+    fi
+}
+
+git stash
+
 for branch_name in `git branch | grep b_`
 do
     git checkout $branch_name >> /dev/null
@@ -37,9 +49,13 @@ do
     content=`tail -n +11 README.md`
     if [ `echo "$content" | wc -l` -gt 2 ]
     then
-        echo "$content" >> multi_readme.md
-        echo " " >> multi_readme.md
+        # echo "$content" >> multi_readme.md
+        # echo " " >> multi_readme.md
+        RetrieveLastLine
+        git add README.md
+        git commit -m'RetrieveLastLine'
     fi
 done
 
-git checkout master
+git checkout dev_add
+git stash pop
