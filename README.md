@@ -1059,3 +1059,4 @@ Book list
 | 1049 | ../booklist/f57322d6911a3bf9c6c479b4cff93deb.pdf | 6.0 MB | f57322d6911a3bf9c6c479b4cff93deb | 
 | 1050 | ../booklist/f57df2f0ffebd487c763dbfd8beb7c95.pdf | 8 KB | f57df2f0ffebd487c763dbfd8beb7c95 | 
 | 1051 | ../booklist/f58f8b45df86b53322ace7e6e48b2c2b.pdf | 12 KB | f58f8b45df86b53322ace7e6e48b2c2b | 
+| 1052 | ../booklist/f59f022d9bcfe9ad9df72acfee1f5173.pdf | 2.7 MB | f59f022d9bcfe9ad9df72acfee1f5173 | 
