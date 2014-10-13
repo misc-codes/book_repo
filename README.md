@@ -49,3 +49,4 @@ Book list
 | 39 | ../booklist/08c4c51155ffc967f6d0c0d307079828.pdf | 8.1 MB | 08c4c51155ffc967f6d0c0d307079828 | 
 | 40 | ../booklist/09684198fa894ff69e7b4bd708014927.pdf | 24 KB | 09684198fa894ff69e7b4bd708014927 | 
 | 41 | ../booklist/0969c795e55f8f8df940f1e21be7cd06.pdf | 3.0 MB | 0969c795e55f8f8df940f1e21be7cd06 | 
+| 42 | ../booklist/097b792a0bec446f9ca6da52f859c11a.pdf | 332 KB | 097b792a0bec446f9ca6da52f859c11a | 
