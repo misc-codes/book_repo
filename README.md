@@ -9,3 +9,4 @@ Book list
 | Seq | File Name | Size | MD5 |
 | --- | --------- | ---- | --- |
 | 967 | ../booklist/e59d6ae02d6670c991c39d9cd462f5cc.pdf | 3.1 MB | e59d6ae02d6670c991c39d9cd462f5cc | 
+| 1100 | Data Structures and Algorithm Analysis in C__ - Mark Allen Weiss.pdf | 3.1 MB | e59d6ae02d6670c991c39d9cd462f5cc | 
