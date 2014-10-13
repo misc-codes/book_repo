@@ -1093,3 +1093,4 @@ Book list
 | 1083 | ../booklist/fcc322be5f4ccbf37adedc5010448709.pdf | 520 KB | fcc322be5f4ccbf37adedc5010448709 | 
 | 1084 | ../booklist/fccb9d0e5960bed7c1a2149846ea8cec.pdf | 1.8 MB | fccb9d0e5960bed7c1a2149846ea8cec | 
 | 1085 | ../booklist/fcf5e9d013d8e03cfcda2ff24bc0e025.pdf | 8 KB | fcf5e9d013d8e03cfcda2ff24bc0e025 | 
+| 1086 | ../booklist/fd55caa9e5b5990e92067fa7483e769b.pdf | 8 KB | fd55caa9e5b5990e92067fa7483e769b | 
