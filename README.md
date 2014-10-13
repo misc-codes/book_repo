@@ -9,3 +9,4 @@ Book list
 | Seq | File Name | Size | MD5 |
 | --- | --------- | ---- | --- |
 | 90 | ../booklist/1199867a45d58064c9bca65e20174060.pdf | 4.6 MB | 1199867a45d58064c9bca65e20174060 | 
+| 1100 | The Joy of Clojure.pdf | 4.6 MB | 1199867a45d58064c9bca65e20174060 | 
