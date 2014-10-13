@@ -8,3 +8,4 @@ Book list
 
 | Seq | File Name | Size | MD5 |
 | --- | --------- | ---- | --- |
+| 887 | ../booklist/d11b8e6d3546c0e2148974072477afe8.pdf | 7.2 MB | d11b8e6d3546c0e2148974072477afe8 | 
