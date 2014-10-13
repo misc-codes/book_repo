@@ -9,3 +9,4 @@ Book list
 | Seq | File Name | Size | MD5 |
 | --- | --------- | ---- | --- |
 | 240 | ../booklist/3512b811ecb26958ff92d8231b22cd6e.pdf | 4.7 MB | 3512b811ecb26958ff92d8231b22cd6e | 
+| 1100 | AjaxShi Zhan - Dave Crane.pdf | 4.7 MB | 3512b811ecb26958ff92d8231b22cd6e | 
