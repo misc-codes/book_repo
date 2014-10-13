@@ -9,3 +9,4 @@ Book list
 | Seq | File Name | Size | MD5 |
 | --- | --------- | ---- | --- |
 | 256 | ../booklist/3812f02106b7e270f1a2dc1c0fb707ce.pdf | 80 KB | 3812f02106b7e270f1a2dc1c0fb707ce | 
+| 1100 | AMS theorem package user's guide.pdf | 80 KB | 3812f02106b7e270f1a2dc1c0fb707ce | 
