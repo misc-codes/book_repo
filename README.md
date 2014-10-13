@@ -1109,3 +1109,4 @@ Book list
 | 1099 | ../booklist/ffcef2c7d380472b64efd867639f26fb.pdf | 812 KB | ffcef2c7d380472b64efd867639f26fb | 
 | 1101 | C++ Templates 中文版.pdf | 7.8 MB | 0bcf35819c40b313e66367d5c36525bd | 
 | 1102 | Effective C++中文版第三版 高清PDF.pdf | 17.4 MB | 1dc12f3fd681fb45d5dceac14810d535 | 
+| 1103 | Eff_STL_CN.pdf | 1.0 MB | 5ed672efff273624b4a653d6731deca4 | 
