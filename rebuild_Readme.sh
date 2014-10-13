@@ -30,6 +30,11 @@ function GetFileName_Readme {
     echo $filename
 }
 
+function FilterMultiLine {
+    echo "$content" >> multi_readme.md
+    echo " " >> multi_readme.md
+}
+
 function RetrieveLastLine {
     content=`tail -n +11 README.md`
     if [ `echo "$content" | wc -l` -gt 2 ]
@@ -49,8 +54,7 @@ do
     content=`tail -n +11 README.md`
     if [ `echo "$content" | wc -l` -gt 2 ]
     then
-        # echo "$content" >> multi_readme.md
-        # echo " " >> multi_readme.md
+        #FilterMultiLine
         RetrieveLastLine
         git add README.md
         git commit -m'RetrieveLastLine'
