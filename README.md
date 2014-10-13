@@ -1022,3 +1022,4 @@ Book list
 | 1012 | ../booklist/ee7b6d5ead76db9a082615e9f057f3b2.pdf | 116 KB | ee7b6d5ead76db9a082615e9f057f3b2 | 
 | 1013 | ../booklist/ee8c14d9db4d041430ef5a695b6be344.pdf | 55.2 MB | ee8c14d9db4d041430ef5a695b6be344 | 
 | 1014 | ../booklist/eeac1c0eaa2b4c7ebeb7ab07f55e65e3.pdf | 12 KB | eeac1c0eaa2b4c7ebeb7ab07f55e65e3 | 
+| 1015 | ../booklist/ef19bf47dd016b0d4842123b5f7a516d.pdf | 37.5 MB | ef19bf47dd016b0d4842123b5f7a516d | 
