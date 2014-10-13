@@ -320,3 +320,4 @@ Book list
 | 310 | ../booklist/4319bbb0b15bc0a2644dbc72bb8b7320.pdf | 9.3 MB | 4319bbb0b15bc0a2644dbc72bb8b7320 | 
 | 311 | ../booklist/431b7b409b8a45c922dbb44e9eec71f8.pdf | 192 KB | 431b7b409b8a45c922dbb44e9eec71f8 | 
 | 312 | ../booklist/432a590e5186d809cfe1efb03e734224.pdf | 8 KB | 432a590e5186d809cfe1efb03e734224 | 
+| 313 | ../booklist/432e712116c0ed37899cf7270cea6fe1.pdf | 22.5 MB | 432e712116c0ed37899cf7270cea6fe1 | 
