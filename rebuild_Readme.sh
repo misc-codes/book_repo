@@ -2,10 +2,6 @@
 
 set -e
 
-function AppendReadme {  # md5, file_name, filesize
-    # | sequence | md5 | file_name  | Size |
-}
-
 function GetFileName_json {
     if [ ! -e "$1" ]
     then
@@ -32,8 +28,8 @@ function AppendDispName_Json {
         return 0
     fi
 
-    dispname=`cat "$1" | jq '.dispname'`
-    if [ null = "$dispname" ]
+    filename=`cat "$1" | jq '.dispname'`
+    if [ null = "$filename" ]
     then
         file_md5=`echo "$1" | awk 'BEGIN{FS="."} {print $1}'`
         file_size=`du "$file_md5".pdf | awk '{print $1}'`
@@ -76,6 +72,19 @@ function FilterMultiLine {
     echo " " >> multi_readme.md
 }
 
+function RetrieveFirstLine {
+    content=`tail -n +11 README.md`
+    if [ `echo "$content" | wc -l` -gt 2 ]
+    then
+        head -11 README.md >> README.md.temp
+        mv README.md.temp README.md
+        git add README.md
+        git commit -m'RetrieveLastLine'
+    fi
+}
+
+
+
 function RetrieveLastLine {
     content=`tail -n +11 README.md`
     if [ `echo "$content" | wc -l` -gt 2 ]
@@ -100,7 +109,8 @@ do
     git checkout .
     #FilterMultiLine
     # RetrieveLastLine
-    AppendName_Json *.json
+    # AppendName_Json *.json
+    GetFileName_json *.json
 
     i=$((i + 1 ))
     remain=$((remain - 1 ))
